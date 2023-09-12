@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 .idea
 READMEbackend.txt
-utils/db.ts
+
 ### Node ###
 # Logs
 logs
