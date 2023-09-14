@@ -10,6 +10,7 @@ export const adRouter = Router()
 
         const ads = await AdRecord.findAll(req.params.name ?? '');
 
+        console.log(ads);
         res.json(ads)
     })
 
